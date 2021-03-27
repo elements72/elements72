@@ -13,4 +13,4 @@ My principal interests are: open source, cybersecurity, linux.
 If you want contact me at antonio.lopez.8523@gmail.com, I will glad to answer you.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elements72&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elements72&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elements72&layout=compact&exclude_repo=Progetto-Deblur)](https://github.com/anuraghazra/github-readme-stats)
